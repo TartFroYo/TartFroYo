@@ -17,7 +17,7 @@
 <p>🔗 LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/) </p>
 👨‍💻 GitHub: [TartFroYo](https://github.com/TartFroYo)  
 
-## About Me
+## About Me 😊
 I’m passionate about turning data into insights and solving real-world problems using data science, analytics, and machine learning. 
 Currently, I'm pursuing my Master of Science in Business Analytics at the University of Texas at Austin. 
 And in my free time, I like to rollerblade and read.
