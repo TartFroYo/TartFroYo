@@ -1,14 +1,3 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hello, I'm Aileen!  
 ## 🚀 Aspiring Data Scientist | Data Analyst | Machine Learning & Analytics  
 📍 Austin, TX  
@@ -21,15 +10,16 @@ I’m passionate about turning data into insights and solving real-world problem
 Currently, I'm pursuing my Master of Science in Business Analytics at the University of Texas at Austin. 
 And in my free time, I like to rollerblade and read.
 
-## Professional Highlights 🌟  
+## Education 🎓
 + **Master of Science in Business Analytics** (2026) – University of Texas at Austin  
 + **B.S. in Mathematics, Minor in Computer Science** (2024) – UT Austin  
 
+## Professional Highlights 🌟  
 + **Undergraduate Researcher** – Conducted exploratory analysis on genomic datasets and built ML models to analyze genetic overlaps.  
 + **Technical Projects** – Developed machine learning models for predicting air pollution, hazardous asteroids, and Alzheimer’s disease using Python and R.  
 + **Hackathon Winner** – Created an AI-enhanced healthcare mobile app, winning 1st place at Hack for Humanity.
 
-## Tech Toolbox 🛠️  
+## Technical Skills & Tools 🛠️  
 + **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R (caret, dplyr)  
 + **Data & ML:** EDA, Feature Engineering, Statistical Modeling, Machine Learning  
 + **Visualization & BI:** Tableau, Google Cloud Platform, Excel (Pivot Tables, VLOOKUP)  
