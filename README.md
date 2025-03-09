@@ -13,6 +13,7 @@
 🚀 Aspiring Data Scientist | Data Analyst | Machine Learning & Analytics  
 📍 Austin, TX  
 📧 E-mail: <a href="mailto:aql254@utexas.edu">aql254@utexas.edu</a>
+
 🔗 LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)  
 👨‍💻 GitHub: [TartFroYo](https://github.com/TartFroYo)  
 
