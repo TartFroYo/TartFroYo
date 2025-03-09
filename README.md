@@ -14,8 +14,7 @@
 📍 Austin, TX  
 
 📧 E-mail: <a href="mailto:aql254@utexas.edu">aql254@utexas.edu</a>
-<p>🔗 LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/) </p>
-👨‍💻 GitHub: [TartFroYo](https://github.com/TartFroYo)  
+<p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/aileen-li-public/">Aileen Li</a> </p>
 
 ## About Me 😊
 I’m passionate about turning data into insights and solving real-world problems using data science, analytics, and machine learning. 
