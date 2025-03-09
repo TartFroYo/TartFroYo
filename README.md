@@ -1,10 +1,6 @@
 # Howdy, I'm Aileen!  
 ## 🚀 Aspiring Data Scientist | Machine Learning & Analytics | [My Portfolio](https://github.com/TartFroYo/Portfolio/blob/main/README.md)
 📍 Austin, TX  
-
-📧 E-mail: <a href="mailto:aql254@utexas.edu">aql254@utexas.edu</a>
-<p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/aileen-li-public/">Aileen Li</a> </p>
-
 <p align=center> 
   <b>🔗 LinkedIn:</b> <a href="https://www.linkedin.com/in/aileen-li-public/">Aileen Li</a>
   &nbsp;&nbsp;&nbsp;&nbsp;<b>📧 E-mail:</b> <a href="mailto:aql254@utexas.edu">aql254@utexas.edu</a>
