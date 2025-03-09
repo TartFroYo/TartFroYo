@@ -10,7 +10,7 @@
 -->
 
 # 👋 Hello, I'm Aileen!  
-🚀 Aspiring Data Scientist | Data Analyst | Machine Learning & Analytics  
+## 🚀 Aspiring Data Scientist | Data Analyst | Machine Learning & Analytics  
 📍 Austin, TX  
 
 📧 E-mail: <a href="mailto:aql254@utexas.edu">aql254@utexas.edu</a>
