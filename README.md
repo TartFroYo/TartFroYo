@@ -13,8 +13,8 @@ Currently, I'm pursuing my Master of Science in Business Analytics at the Univer
 And in my free time, I like to rollerblade and read.
 
 ## Education 🎓
-+ **Master of Science in Business Analytics** (2026) – University of Texas at Austin  
-+ **B.S. in Mathematics, Minor in Computer Science** (2024) – UT Austin  
++ **Master of Science in Business Analytics** (2026) – [University of Texas at Austin](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics/ms-business-analytics-on-campus/academics/curriculum/)  
++ **B.S.A. in Mathematics, Minor in Computer Science** (2024) – [University of Texas at Austin](https://cns.utexas.edu/academics/departments/mathematics/math-major-courses) 
 
 ## Professional Highlights 🌟  
 + **Undergraduate Researcher** – Conducted exploratory analysis on genomic datasets and built ML models to analyze genetic overlaps.  
