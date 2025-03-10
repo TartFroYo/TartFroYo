@@ -19,7 +19,7 @@ And in my free time, I like to rollerblade and read.
 ## Professional Highlights 🌟  
 + **Undergraduate Researcher** – Conducted exploratory analysis on genomic datasets and built ML models to analyze genetic overlaps.  
 + **Technical Projects** – Developed machine learning models for predicting air pollution, hazardous asteroids, and Alzheimer’s disease using Python and R.  
-+ **Hackathon Winner** – Created an AI-enhanced healthcare mobile app, winning 1st place at Hack for Humanity.
++ **Hackathon Winner** – Created a healthcare mobile app, winning 1st place at Hack for Humanity.
 
 ## Technical Skills & Tools 🛠️  
 + **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R (caret, dplyr)  
