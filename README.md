@@ -1,5 +1,5 @@
 # Howdy, I'm Aileen!  
-## 🚀 Aspiring Data Scientist | Machine Learning & Analytics | [My Portfolio](https://github.com/TartFroYo/Portfolio/blob/main/README.md)
+## 🚀 Data Enthusiast | Machine Learning & Analytics | [My Portfolio](https://github.com/TartFroYo/Portfolio/blob/main/README.md)
 <p align=center> 
   📍 Austin, TX &nbsp;&nbsp;&nbsp;&nbsp;
   <b>🔗 LinkedIn:</b> <a href="https://www.linkedin.com/in/aileen-li-public/">Aileen Li</a>
