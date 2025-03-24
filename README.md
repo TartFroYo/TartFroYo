@@ -22,7 +22,7 @@ And in my free time, I like to rollerblade and read.
 + **Hackathon Winner** – Created a healthcare mobile app, winning 1st place at Hack for Humanity.
 
 ## Technical Skills & Tools 🛠️  
-+ **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R (caret, dplyr)  
++ **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R (caret, dplyr) , Git, Bash, Linux/Unix
 + **Data & ML:** EDA, Feature Engineering, Statistical Modeling, Machine Learning  
 + **Visualization & BI:** Tableau, Google Cloud Platform, Excel (Pivot Tables, VLOOKUP)  
 
